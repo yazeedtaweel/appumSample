@@ -1,0 +1,16 @@
+﻿WebAppAutomationTests/.idea
+WebAppAutomationTests/venv
+WebAppAutomationTests/__pycache__
+WebAppAutomationTests/Reports
+Reports
+WebAppAutomationTests/Locators/__pycache__
+WebAppAutomationTests/Base/__pycache__
+WebAppAutomationTests/Pages/__pycache__
+WebAppAutomationTests/Pages/CreateInspection/__pycache__
+WebAppAutomationTests/Tests/__pycache__
+WebAppAutomationTests/Pages/Inspection/__pycache__
+.idea
+WebAppAutomationTests/Helpers/__pycache__
+WebAppAutomationTests/Tests/Smoe test cases/__pycache__
+WebAppAutomationTests/Enums/__pycache__
+WebAppAutomationTests/Tests/Smoke test cases/__pycache__
